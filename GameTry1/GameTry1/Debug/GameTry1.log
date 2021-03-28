@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\vs c++项目\gametry1\gametry1\main.cpp(226): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\vs c++项目\gametry1\gametry1\main.cpp(232): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  GameTry1.vcxproj -> D:\VS C++项目\GameTry1\Debug\GameTry1.exe

@@ -1,0 +1,10 @@
+D:\VS C++项目\NumbersProblem\NumberApplication\bin\Debug\NumberApplication.exe.config
+D:\VS C++项目\NumbersProblem\NumberApplication\bin\Debug\NumberApplication.exe
+D:\VS C++项目\NumbersProblem\NumberApplication\bin\Debug\NumberApplication.pdb
+D:\VS C++项目\NumbersProblem\NumberApplication\obj\Debug\NumberApplication.csprojAssemblyReference.cache
+D:\VS C++项目\NumbersProblem\NumberApplication\obj\Debug\NumberApplication.Form1.resources
+D:\VS C++项目\NumbersProblem\NumberApplication\obj\Debug\NumberApplication.Properties.Resources.resources
+D:\VS C++项目\NumbersProblem\NumberApplication\obj\Debug\NumberApplication.csproj.GenerateResource.cache
+D:\VS C++项目\NumbersProblem\NumberApplication\obj\Debug\NumberApplication.csproj.CoreCompileInputs.cache
+D:\VS C++项目\NumbersProblem\NumberApplication\obj\Debug\NumberApplication.exe
+D:\VS C++项目\NumbersProblem\NumberApplication\obj\Debug\NumberApplication.pdb

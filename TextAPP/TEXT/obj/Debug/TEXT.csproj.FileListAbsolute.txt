@@ -1,0 +1,14 @@
+D:\VS C++项目\TEXT\TEXT\bin\Debug\TEXT.exe.config
+D:\VS C++项目\TEXT\TEXT\bin\Debug\TEXT.exe
+D:\VS C++项目\TEXT\TEXT\bin\Debug\TEXT.pdb
+D:\VS C++项目\TEXT\TEXT\obj\Debug\TEXT.Properties.Resources.resources
+D:\VS C++项目\TEXT\TEXT\obj\Debug\TEXT.csproj.GenerateResource.cache
+D:\VS C++项目\TEXT\TEXT\obj\Debug\TEXT.csproj.CoreCompileInputs.cache
+D:\VS C++项目\TEXT\TEXT\obj\Debug\TEXT.exe
+D:\VS C++项目\TEXT\TEXT\obj\Debug\TEXT.pdb
+D:\VS C++项目\TEXT\TEXT\obj\Debug\TEXT.csprojAssemblyReference.cache
+D:\VS C++项目\TEXT\TEXT\obj\Debug\TEXT.MyText.resources
+D:\VS C++项目\TEXT\TEXT\obj\Debug\TEXT.exChangeForm.resources
+D:\VS C++项目\TEXT\TEXT\obj\Debug\TEXT.findWordForm.resources
+D:\VS C++项目\TEXT\TEXT\obj\Debug\TEXT.aboutForm.resources
+D:\VS C++项目\TEXT\TEXT\obj\Debug\TEXT.fatherForm.resources

@@ -1,0 +1,10 @@
+D:\VS C++项目\SpareTimeApp\SpareTimeApp\bin\Debug\SpareTimeApp.exe.config
+D:\VS C++项目\SpareTimeApp\SpareTimeApp\bin\Debug\SpareTimeApp.exe
+D:\VS C++项目\SpareTimeApp\SpareTimeApp\bin\Debug\SpareTimeApp.pdb
+D:\VS C++项目\SpareTimeApp\SpareTimeApp\obj\Debug\SpareTimeApp.csprojAssemblyReference.cache
+D:\VS C++项目\SpareTimeApp\SpareTimeApp\obj\Debug\SpareTimeApp.Form1.resources
+D:\VS C++项目\SpareTimeApp\SpareTimeApp\obj\Debug\SpareTimeApp.Properties.Resources.resources
+D:\VS C++项目\SpareTimeApp\SpareTimeApp\obj\Debug\SpareTimeApp.csproj.GenerateResource.cache
+D:\VS C++项目\SpareTimeApp\SpareTimeApp\obj\Debug\SpareTimeApp.csproj.CoreCompileInputs.cache
+D:\VS C++项目\SpareTimeApp\SpareTimeApp\obj\Debug\SpareTimeApp.exe
+D:\VS C++项目\SpareTimeApp\SpareTimeApp\obj\Debug\SpareTimeApp.pdb
