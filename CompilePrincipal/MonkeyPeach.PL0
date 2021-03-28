@@ -1,0 +1,50 @@
+const a = 2,b = 1.5;
+var ans, count;
+dvar dans,dcount;
+arr myarr[4];
+tuple mytuple(3:11,22,33);
+procedure p2;
+	begin
+		count := count-1;
+		ans := (ans+1)*2;
+	end;
+begin
+	read("请输入整型 count：",count);
+	read("请输入浮点型dans：",dans);
+	ans := 1.33; 
+	write("初始dans = ",dans);
+	write("通过proc p2计算：");
+	while count # 1 do
+		begin
+			call p2;
+			write("dans = ",dans);
+			dans := dans*dans;
+			dans := dans+1.29;
+			write("dans = ",dans);
+		end;
+	dcount := 1.33;
+	write("dcount = ",dcount);
+	write("ans = ",ans);
+	write("在for循环中对ans值递增：");
+	for count := 1;count # 5 do
+	begin
+		ans := ans + 1;
+		write("ans = ",ans);
+		count:=count+1;
+	end;
+	write("验证浮点数、数组运算：");
+	dcount:= 1.55;
+	myarr[3]:= 3*3+1;
+	dcount := myarr[3]*myarr[3]+1;
+	write("dcount = ",dcount);
+	dcount := myarr[3];
+	write("dcount = ",dcount);
+	myarr[3] := 1+2+dcount;
+	dcount := (myarr[3]+1)*2/3;
+	write(" dcount = ",dcount," ans = ",ans," myarr[3] = ",myarr[3]);
+	write("验证tuple的使用：");
+	write(" (mytuple(1)+1)/2 = ",(mytuple(1)+1)/2);
+	write(" (mytuple(2)*3-9)/10+1 = ",(mytuple(2)*3-9)/10+1);
+	myarr[1] := dcount+mytuple(2);
+	write(" myarr[1] = dcount+mytuple(2) = ",myarr[1]);
+end.	

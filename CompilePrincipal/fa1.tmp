@@ -1,0 +1,100 @@
+Input pl/0 file?   nonkeyPeach.PL0
+0 const a = 2,b = 1.5;
+
+1 var ans, count;
+
+1 dvar dans,dcount;
+
+1 arr myarr[4];
+
+1 tuple mytuple(3:11,22,33);
+
+1 procedure p2;
+
+1 	begin
+
+3 		count := count-1;
+
+7 		ans := (ans+1)*2;
+
+13 	end;
+
+14 begin
+
+15 	read("请输入整型 count：",count);
+
+18 	read("请输入浮点型dans：",dans);
+
+21 	ans := 1.33; 
+
+23 	write("初始dans = ",dans);
+
+27 	write("通过proc p2计算：");
+
+29 	while count # 1 do
+
+33 		begin
+
+33 			call p2;
+
+34 			write("dans = ",dans);
+
+38 			dans := dans*dans;
+
+42 			dans := dans+1.29;
+
+46 			write("dans = ",dans);
+
+50 		end;
+
+51 	dcount := 1.33;
+
+53 	write("dcount = ",dcount);
+
+57 	write("ans = ",ans);
+
+61 	write("在for循环中对ans值递增：");
+
+63 	for count := 1;count # 5 do
+
+69 	begin
+
+69 		ans := ans + 1;
+
+73 		write("ans = ",ans);
+
+77 		count:=count+1;
+
+81 	end;
+
+82 	write("验证浮点数、数组运算：");
+
+84 	dcount:= 1.55;
+
+86 	myarr[3]:= 3*3+1;
+
+92 	dcount := myarr[3]*myarr[3]+1;
+
+98 	write("dcount = ",dcount);
+
+102 	dcount := myarr[3];
+
+104 	write("dcount = ",dcount);
+
+108 	myarr[3] := 1+2+dcount;
+
+114 	dcount := (myarr[3]+1)*2/3;
+
+122 	write(" dcount = ",dcount," ans = ",ans," myarr[3] = ",myarr[3]);
+
+132 	write("验证tuple的使用：");
+
+134 	write(" (mytuple(1)+1)/2 = ",(mytuple(1)+1)/2);
+
+142 	write(" (mytuple(2)*3-9)/10+1 = ",(mytuple(2)*3-9)/10+1);
+
+154 	myarr[1] := dcount+mytuple(2);
+
+158 	write(" myarr[1] = dcount+mytuple(2) = ",myarr[1]);
+
+162 end.	

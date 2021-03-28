@@ -1,0 +1,13 @@
+    1 const        a val=0
+    2 const        b dval=1.500000
+    3 var        ans lev=0 addr=3
+    4 var      count lev=0 addr=4
+    5 dvar      dans lev=0 addr=5
+    6 dvar    dcount lev=0 addr=6
+    7 array    myarr lev=0 addr=7
+    8 dvar           lev=0 addr=8
+    9 dvar           lev=0 addr=9
+   10 dvar           lev=0 addr=10
+   11 dvar           lev=0 addr=11
+   12 tuple  mytuple lev=0 addr=12
+   13 proc        p2 lev=0 addr=2 size=3
